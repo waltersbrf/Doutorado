@@ -1,4 +1,4 @@
-# Doutorado
+# Multiples PDF — FAQ com Langchain e OpenAI API
 Repositório destinado aos trabalho do curso de doutorado.
 
 
